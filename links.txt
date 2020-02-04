@@ -1,0 +1,5 @@
+Test your front-end against a real API
+https://reqres.in/
+
+el-metodo-ajax
+https://openclassrooms.com/en/courses/4309491-simplifica-tus-proyectos-con-jquery/4981961-el-metodo-ajax
